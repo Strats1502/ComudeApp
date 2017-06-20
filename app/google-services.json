@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:686001899882:android:cc739f1a36108a5a",
         "android_client_info": {
-          "package_name": "mx.gob.jovenes.guanajuato"
+          "package_name": "mx.gob.comude"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "686001899882-10pfdsujud8nusfkgd06m9dpiind9r9s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "mx.gob.jovenes.guanajuato",
+            "package_name": "mx.gob.comude",
             "certificate_hash": "3411feacb9989160fb5f1b76e0e8570a15c1d524"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "686001899882-ogecms8l25kjvbaosslnko17ob68strs.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "mx.gob.jovenes.guanajuato",
+            "package_name": "mx.gob.comude",
             "certificate_hash": "2e052df5b20c292451557bea881f4c47612f71b4"
           }
         },
