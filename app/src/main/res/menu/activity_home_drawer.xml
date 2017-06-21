@@ -69,6 +69,22 @@
             </group>
         </menu>
     </item>
+
+    <item android:title="@string/title_registros">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_registro_agua"
+                    android:icon="@drawable/ic_water"
+                    android:title="@string/registro_agua"/>
+                <item
+                    android:id="@+id/nav_registro_ejercicio"
+                    android:icon="@drawable/ic_exercise"
+                    android:title="@string/registro_ejercicio"/>
+            </group>
+        </menu>
+    </item>
+
     <item android:title="@string/general">
         <menu>
             <group android:checkableBehavior="single">

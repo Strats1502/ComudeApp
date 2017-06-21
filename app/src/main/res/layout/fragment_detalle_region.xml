@@ -32,7 +32,7 @@
 
                 <TextView
                     android:id="@+id/tv_direccion_region"
-                    android:drawableStart="@drawable/ic_place_white_24dp"
+                    android:drawableStart="@drawable/comude_ic_region_24_px"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="5dp"
@@ -41,7 +41,7 @@
 
                 <TextView
                     android:id="@+id/tv_responsable_region"
-                    android:drawableStart="@drawable/ic_person_black_24dp"
+                    android:drawableStart="@drawable/comude_ic_representante_24_px"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="5dp"
@@ -49,7 +49,7 @@
 
                 <TextView
                     android:id="@+id/tv_descripcion_region"
-                    android:drawableStart="@drawable/ic_description_32_px"
+                    android:drawableStart="@drawable/comude_ic_info_24_px"
                     android:drawablePadding="5dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

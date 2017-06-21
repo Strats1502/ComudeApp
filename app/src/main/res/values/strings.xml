@@ -8,13 +8,13 @@
 
     <!-- Strings related to usuario -->
     <string name="usuario">Inicia Sesión</string>
-    <string name="mensaje_bienvenida">En Guanajoven somos la instancia de Gobierno del Estado rectora en el tema de juventud, generadora de programas y políticas públicas, orientada a elevar la calidad de vida de los jóvenes guanajuatenses.</string>
+    <string name="mensaje_bienvenida">La Comisión Municipal del Deporte y Cultura Física de León es un organismo descentralizado de la administración Pública, con personalidad jurídica y patrimonio propio, que tiene por objeto aplicar el Reglamente de Deporte y Cultura Física para el Municipio de León</string>
 
     <string name="home">Home</string>
-    <string name="bienvenida">HAZ DE GUANAJUATO TU PROYECTO DE VIDA</string>
+    <string name="bienvenida">TODOS POR EL DEPORTE!</string>
     <string name="comenzar">Comenzar</string>
     <string name="registrar">Registrar</string>
-    <string name="copyright">Copyright © \nGuanajuato 2017.</string>
+    <string name="copyright">Copyright © \nCOMUDE 2017.</string>
     <string name="inicio">Inicio</string>
     <string name="pass">Contraseña</string>
     <string name="ejercicio">Ejercicio</string>
@@ -330,7 +330,7 @@ condiciones informados en el presente aviso de privacidad.&lt;br>
     <string name="estado_nacimiento">Estado de nacimiento</string>
     <string name="cambiar_imagen">Agrega una imagen</string>
     <string name="ingresa_datos">Ingresa los siguientes datos:</string>
-    <string name="codigo_guanajoven">Código Guanajoven</string>
+    <string name="codigo_guanajoven">Código Comude</string>
     <string name="checkin_texto">Check-in</string>
     <string name="social">Redes sociales</string>
     <string name="notificaciones">Notificaciones</string>
@@ -378,6 +378,9 @@ condiciones informados en el presente aviso de privacidad.&lt;br>
     <string name="proyectos_sociales">¿Participas en algún proyecto social que beneficie a tu comunidad?</string>
     <string name="sueldo_proyectos_sociales">¿Recibes sueldo o apoyo económico por esto?</string>
 
+    <!--String comude-->
+    <string name="title_registros">Registros</string>
+
     <!--Strings fragments conocenos-->
     <string name="conocenos_titulo">Conocenos</string>
     <string name="conocenos_que_hacemos">¿Que hacemos?</string>
@@ -385,20 +388,18 @@ condiciones informados en el presente aviso de privacidad.&lt;br>
     <string name="conocenos_titulo_mision">Misión</string>
     <string name="conocenos_titulo_vision">Visión</string>
     <string name="conocenos_titulo_valores">Valores</string>
-    <string name="conocenos_descripcion">En Guanajoven somos la instancia de Gobierno del Estado rectora en el tema de juventud, generadora de programas y políticas públicas, orientada a elevar la calidad de vida de los jóvenes guanajuatenses.</string>
-    <string name="conocenos_mision">Somos la instancia de Gobierno del Estado rectora en el tema de juventud, generadora de programas y politícas publicas, orientada a elevar la calidad de vida de los jóvenes Guanajuatenses.</string>
-    <string name="conocenos_vision">En Guanajuato tenemos jóvenes con una mejor calidad de vida, integrados en una comunidad global, que participan de manera solidaria y comprometida en el desarrollo integral de su entorno.</string>
-    <string name="conocenos_valores">Solidaridad\n
-                                     Integridad\n
-                                     Respeto\n
-                                     Responsabilidad\n
-                                     Creatividad\n
-                                     Humildad</string>
+    <string name="conocenos_descripcion">La Comisión Municipal de Cultura Física y Deporte (COMUDE) de León, Guanajuato es  un organismo público descentralizado de la administración Municipal.</string>
+    <string name="conocenos_mision">Estimular, promover, apoyar y enseñanza del deporte para todos los habitantes del Municipio en espacios deportivos con infraestructura necesaria y personal calificado de acuerdo con las necesidades de los ciudadanos.</string>
+    <string name="conocenos_vision">Ser un organismo líder, en la generación de proyectos creativos e innovadores que beneficien y activen a los ciudadanos, construyendo por medio del fomento deportivo la participación ciudadana y el tejido social.</string>
+    <string name="conocenos_valores">Institucionalidad.\n
+                                     Calidez.\n
+                                     Honestidad.\n
+                                     Responsabilidad.\n
+                                     Respeto.\n
+                                     Trabajo en equipo.\n
+                                     Solidaridad.\n
+                                     Eficacia.</string>
     <string name="conocenos_titulo_logros_estadisticas">Logros y estadísticas</string>
     <string name="conocenos_logros_estadisticas">Contenido de logros y estadísticas</string>
     <string name="conocenos_enlaces">Enlaces</string>
-    <string name="conocenos_lineas_de_accion">Líneas de acción</string>
-    <string name="conocenos_diagnostico_juvenil">Diagnóstico juvenil</string>
-    <string name="conocenos_encuesta_juventud">Encuesta de juventud</string>
-    <string name="conocenos_directorio">Directorio</string>
 </resources>

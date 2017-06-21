@@ -14,7 +14,7 @@
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/login_background" />
+            android:src="@drawable/comude_img_4" />
 
         <FrameLayout
             android:layout_width="match_parent"
@@ -51,7 +51,7 @@
                     android:layout_height="128dp"
                     android:layout_gravity="center"
                     android:layout_marginTop="15dp"
-                    android:src="@drawable/logo"/>
+                    android:src="@drawable/comude_logo_bienvenida"/>
 
                 <TextView
                     android:layout_marginTop="10dp"

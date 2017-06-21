@@ -56,7 +56,7 @@
                         <ImageView
                             android:layout_width="55dp"
                             android:layout_height="55dp"
-                            android:src="@drawable/logo" />
+                            android:src="@drawable/comude_logo_bienvenida" />
                     </FrameLayout>
 
                     <FrameLayout
@@ -69,7 +69,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="Código Guanajoven"
+                            android:text="Código Comude"
                             android:textColor="@color/colorAccentDark"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -85,7 +85,7 @@
                             android:layout_width="55dp"
                             android:layout_height="55dp"
                             android:layout_gravity="right"
-                            android:src="@drawable/logo_gto" />
+                            android:src="@drawable/comude_logo_leon" />
                     </FrameLayout>
                 </LinearLayout>
 

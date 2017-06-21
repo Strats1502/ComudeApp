@@ -13,7 +13,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/background4"
+            android:src="@drawable/comude_img_2"
             android:scaleType="centerCrop"/>
         <FrameLayout
             android:layout_width="match_parent"
@@ -144,7 +144,7 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/logo"
+            app:srcCompat="@drawable/comude_logo"
             app:layout_constraintHorizontal_bias="0.502" />
 
         <Button
